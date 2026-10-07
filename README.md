@@ -1,7 +1,7 @@
 <h3 align="center">이주연 · AI·백엔드 개발자</h3>
 
 <p align="center">
-  RAG 챗봇과 데이터 파이프라인을 만듭니다.<br>
+  LLM과 RAG 챗봇을 만듭니다.<br>
   <a href="https://clinquant-syrniki-eb036e.netlify.app">포트폴리오</a> ·
   <a href="mailto:luvpage11@gmail.com">luvpage11@gmail.com</a>
 </p>
