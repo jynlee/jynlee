@@ -1,4 +1,4 @@
-<h3 align="center">이주연 · AI·풀스택 개발자</h3>
+<h3 align="center">이주연 · AI·백엔드 개발자</h3>
 
 <p align="center">
   LLM과 RAG 챗봇을 만듭니다.<br>
